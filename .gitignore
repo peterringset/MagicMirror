@@ -26,6 +26,7 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 *.lnk
+.vscode/
 
 # Various OSX ignoramuses.
 .DS_Store
